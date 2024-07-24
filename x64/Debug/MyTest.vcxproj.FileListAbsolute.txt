@@ -1,1 +1,2 @@
 C:\Users\X\source\repos\Demo\MyTest\x64\Debug\MyTest.exe
+C:\MyCode\Github\Demo\x64\Debug\MyTest.exe
