@@ -10,5 +10,7 @@ int main() {
 	cout << "ÎÒÊÇ´óÉµ¹Ï£¬¹ş¹ş¹ş¹ş¹ş" << endl;
 
 	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
+	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
+	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
 	return 0;
 }
