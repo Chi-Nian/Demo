@@ -9,5 +9,6 @@ int main() {
 	cout << "ÎÒÊÇÉµ±Æ£¬¹ş¹ş¹ş¹ş¹ş" << endl;
 	cout << "fgfhbgfbgf" << endl;
 	cout << "hgfhbgfbgfb" << endl;
+	cout << "¸Õ¸ÄµÄ" << endl;
 	return 0;
 }
