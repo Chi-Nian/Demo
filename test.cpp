@@ -5,18 +5,7 @@ using namespace std;
 int main() {
 
 
-	cout << "Hello World!\n" << endl;
-	cout << "我是傻逼" << endl;
-	cout << "woshidashabi" << endl;
-	cout << "我是傻逼" << endl;
-	cout << "woshidashabi" << endl;
-	cout << "我是傻逼" << endl;
-	cout << "woshidashabi" << endl;
-	cout << "我是傻逼" << endl;
-	cout << "woshidashabi" << endl;
-	cout << "我是傻逼" << endl;
-	cout << "woshidashabi" << endl;
-	cout << "我是傻逼" << endl;
-	cout << "woshidashabi" << endl;
+	cout << "我是聪明人~" << endl;
+	
 	return 0;
 }
