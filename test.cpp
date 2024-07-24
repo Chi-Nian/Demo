@@ -8,7 +8,14 @@ int main() {
 	cout << "Hello World!\n" << endl;
 	cout << "ÎÒÊÇÉµ±Æ£¬¹ş¹ş¹ş¹ş¹ş" << endl;
 	cout << "ÎÒÊÇ´óÉµ¹Ï£¬¹ş¹ş¹ş¹ş¹ş" << endl;
-
+	cout << "432432432432432432432432432" << endl;
+	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
+	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
+	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
+	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
+	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
+	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
+	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
 	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
 	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
 	cout << "Â¥ÉÏÊÇÉµ¹Ï" << endl;
