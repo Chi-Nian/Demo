@@ -19,5 +19,6 @@ int main() {
 	cout << "楼上是傻瓜" << endl;
 	cout << "楼上是傻瓜" << endl;
 	cout << "楼上是傻瓜" << endl;
+	cout << "OK，兄弟们，全体目光向我看齐，看我看我，我宣布个事" << endl;
 	return 0;
 }
