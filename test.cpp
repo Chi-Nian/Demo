@@ -16,6 +16,8 @@ int main() {
 	cout << "込込込込込込込" << endl;
 	cout << "込込込込込込込" << endl;
 	cout << "込込込込込込込" << endl;
+
+	cout << "11111" << endl;
 	
 	return 0;
 }
