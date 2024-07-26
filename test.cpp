@@ -10,9 +10,9 @@ int main() {
 	cout << "ÔõÃ´»ØÊÂĞ¡ÀÏµÜ\n" << endl;
 	cout << "ÔõÃ´»ØÊÂĞ¡ÀÏµÜ\n" << endl;
 
-	int a = 0;
-	int b = 0;
-	int c = 0;
+	int a = 199;
+	int b = 3;
+	int c = 4;
 	cout << "¹ş¹ş¹ş¹ş¹ş¹ş" << endl;
 	cin >> a >> b >> c;
 	cout << a + b;
@@ -20,6 +20,17 @@ int main() {
 	cin >> a >> b >> c;
 	cout << a + b;
 	cout << "1111" << endl;
+	int a = 199;
+	int b = 3;
+	int c = 4;
+	cout << "¹ş¹ş¹ş¹ş¹ş¹ş" << endl;
+	cin >> a >> b >> c;
+	int a = 199;
+	int b = 3;
+	int c = 4;
+	cout << "¹ş¹ş¹ş¹ş¹ş¹ş" << endl;
+	cin >> a >> b >> c;
+	cout << "¹ş¹ş¹ş¹ş¹ş¹ş" << endl;
 	cin >> a >> b >> c;
 	cout << a + b;
 	cout << "1111" << endl;
