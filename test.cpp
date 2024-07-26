@@ -6,14 +6,5 @@ int main() {
 
 
 	cout << "Hello World!\n" << endl;
-	cout << "Hello World!\n" << endl;
-
-	cout << "込込込込込込込込込" << endl;
-	cout << "込込込込込込込込込" << endl;
-	cout << "込込込込込込込込込" << endl;
-	cout << "込込込込込込込込込" << endl;
-	cout << "込込込込込込込込込" << endl;
-	cout << "込込込込込込込込込" << endl;
-	
 	return 0;
 }
