@@ -16,5 +16,7 @@ int main() {
 	cout << "込込込込込込" << endl;
 	cin >> a >> b >> c;
 	cout << a + b;
+	cin >> a >> b >> c;
+	cout << a + b;
 	return 0;
 }
