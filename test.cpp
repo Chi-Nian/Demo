@@ -6,7 +6,6 @@ int main() {
 
 
 	cout << "ÎÒÊÇ´ÏÃ÷ÈË~" << endl;
-	cout << "¹ş¹ş¹ş¹ş¹ş¹ş¹ş" << endl;
 	
 	return 0;
 }
