@@ -5,9 +5,7 @@ using namespace std;
 int main() {
 
 
-	cout << "我是聪明人~" << endl;
-	cout << "我是聪明人~" << endl;
-	cout << "我是聪明人~" << endl;
+	cout << "Hello World!\n" << endl;
 	
 	
 	return 0;
