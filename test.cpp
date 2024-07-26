@@ -19,6 +19,16 @@ int main() {
 	cout << "込込込込込込" << endl;
 	cin >> a >> b >> c;
 	cout << a + b;
+	int a = 199;
+	int b = 3;
+	int c = 4;
+	cout << "込込込込込込" << endl;
+	cin >> a >> b >> c;
+	int a = 199;
+	int b = 3;
+	int c = 4;
+	cout << "込込込込込込" << endl;
+	cin >> a >> b >> c;
 	cout << "込込込込込込" << endl;
 	cin >> a >> b >> c;
 	cout << a + b;
