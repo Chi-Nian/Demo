@@ -19,6 +19,8 @@ int main() {
 
 	cout << "11111" << endl;
 	cout << "11111" << endl;
+	cout << "11111" << endl;
+	cout << "11111" << endl;
 	
 	return 0;
 }
