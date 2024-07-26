@@ -14,5 +14,7 @@ int main() {
 	int b = 0;
 	int c = 0;
 	cout << "込込込込込込" << endl;
+	cin >> a >> b >> c;
+	cout << a + b;
 	return 0;
 }
