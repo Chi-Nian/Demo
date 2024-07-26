@@ -13,5 +13,6 @@ int main() {
 	int a = 0;
 	int b = 0;
 	int c = 0;
+	cout << "込込込込込込" << endl;
 	return 0;
 }
