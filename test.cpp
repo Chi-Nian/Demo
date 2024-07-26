@@ -12,5 +12,8 @@ int main() {
 	cout << "込込込込込込込" << endl;
 >>>>>>> 766927e339e097390d3936e0db7960ca37de8ef5
 	
+	cout << "1" << endl;
+	cout << "1" << endl;
+	cout << "1" << endl;
 	return 0;
 }
