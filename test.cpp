@@ -9,5 +9,7 @@ int main() {
 	cout << "込込込込込込込" << endl;
 	
 	cout << "1" << endl;
+	cout << "1" << endl;
+	cout << "1" << endl;
 	return 0;
 }
